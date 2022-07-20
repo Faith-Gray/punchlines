@@ -8,4 +8,3 @@ export default function Joke(props) {
     )
 }
 
-//add note
