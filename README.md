@@ -1,4 +1,4 @@
-This is practice for props. 
+This is practice for props following Bob Zirroll's React course on Scrimba. 
 
 1. What does the `.map()` array method do?
 Returns a new array. Whatever gets returned from the callback
